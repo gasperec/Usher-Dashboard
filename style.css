@@ -1,0 +1,28 @@
+body {
+    background-color: indigo; 
+    font-family: 'Lato', sans-serif;
+    color: whitesmoke; 
+  }
+  
+  .event {
+    background-color: whitesmoke;
+    color: black;
+    padding: 5px 0 5px 15px;
+    border-radius: 10px;
+    margin-top: 10px;
+  }
+  
+  a {
+    color: whitesmoke;
+    margin: 0 10px 0 10px;
+  }
+  
+  #weather {
+    font-style: italic; 
+    font-weight: lighter;
+  }
+  
+  .notifications {
+    color: #62d76b;
+  }
+  
